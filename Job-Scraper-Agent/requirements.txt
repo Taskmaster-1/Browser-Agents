@@ -1,0 +1,6 @@
+playwright
+pandas
+tqdm
+
+# Then Install Chromium ( Run `playwright install chromium` )
+# For more details, refer to the Playwright documentation: https://playwright.dev/python/docs/intro
