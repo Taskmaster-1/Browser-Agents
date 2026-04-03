@@ -23,7 +23,8 @@ A powerful, flexible web scraper built with **Python + Playwright** that extract
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Taskmaster-1/Job-Scraper-Agent.git
+git clone https://github.com/Taskmaster-1/Browser-Agents.git
+cd Browser-Agents
 cd Job-Scraper-Agent
 ```
 
